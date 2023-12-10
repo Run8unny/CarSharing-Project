@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    /*font-family: 'Nunito Sans', sans-serif;*/
+    /*font-family: 'Open Sans', sans-serif;*/
+}
+
+:root {
+    --color-main: red;
+    --color-bg: #28282C;
+}
+
+.container {
+    max-width: 1088px;
+    margin: 0 auto;
+}
